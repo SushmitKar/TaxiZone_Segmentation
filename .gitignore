@@ -1,0 +1,13 @@
+# environments
+env/
+.venv/
+
+# caches
+__pycache__/
+.ipynb_checkpoints/
+
+# raw data (optional but recommended)
+data/raw/
+# Spark / Hadoop internals
+_SUCCESS
+*.crc
